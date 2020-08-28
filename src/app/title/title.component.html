@@ -1,0 +1,10 @@
+<div>
+  <input type="text" [value]="text_first" (change)="changeFn($event)" />
+  <p></p>
+  <input
+    type="text"
+    [value]="text_second"
+    (ngModelChange)="modelChangeFn($event)"
+  />
+  <p></p>
+</div>

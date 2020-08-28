@@ -1,0 +1,37 @@
+.landing {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hide {
+  display: none;
+}
+
+.landing__element {
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.orange_soda {
+  background: #f55d3e;
+}
+.battleship_grey {
+  background: #878e88;
+}
+.jonquil {
+  background: #f7cb15;
+}
+.caput_mortuum {
+  background: #51291e;
+}
+.dark_sky_blue {
+  background: #76bed0;
+}
+.celtic_blue {
+  background: #266dd3;
+}
