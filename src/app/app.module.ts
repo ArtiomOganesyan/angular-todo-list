@@ -8,10 +8,10 @@ import { BodyComponent } from './body/body.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { LogoComponent } from './logo/logo.component';
-import { BodyElementOneComponent } from './body-element-one/body-element-one.component';
-import { BodyElementTwoComponent } from './body-element-two/body-element-two.component';
-import { BodyElementThreeComponent } from './body-element-three/body-element-three.component';
-import { BodyElementFourComponent } from './body-element-four/body-element-four.component';
+import { BodyElementOneComponent } from './body/body-element-one/body-element-one.component';
+import { BodyElementTwoComponent } from './body/body-element-two/body-element-two.component';
+import { BodyElementThreeComponent } from './body/body-element-three/body-element-three.component';
+import { BodyElementFourComponent } from './body/body-element-four/body-element-four.component';
 
 @NgModule({
   declarations: [

@@ -1,27 +1,32 @@
 # TodoList
+This project was generated with:
+[![Angular CLI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)](https://github.com/angular/angular-cli) 
+    
+different things in it
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
+    - sagittis odio eu urna malesuada tristique. Vestibulum ut interdum
+    - ligula. Ut et tortor scelerisque,
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+more loarem
 
-## Development server
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis odio eu urna malesuada tristique.
+Vestibulum ut interdum ligula. Ut et tortor scelerisque,
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+and code
 
-## Code scaffolding
+```
+var text = 'hello world'
+console.log(text)
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+you can also find tables
 
-## Build
+| Plugin | README |
+| ------ | ------ |
+| info | there is some info |
+| GitHub | [ArtiomOganesyan][PlGh] |
+| Google Drive | don't have one |
+| code | ``` let i = 1 ``` |
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+   [PlGh]: <https://github.com/ArtiomOganesyan>
